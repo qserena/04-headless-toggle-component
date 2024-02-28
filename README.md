@@ -1,8 +1,16 @@
-# React + Vite
+# Headless Toggle Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a headless component holding a state which is On and Off. Depending on the current state, one of the two sub-components ToggleOn and ToggleOff are shown.
+  
+<br/>
+<img src="toggle-component.png" alt="Screenshot." width="100px"/>
 
-Currently, two official plugins are available:
+## Technologies
+- React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live link
+The site is deployed here:
+[https://toms-avatar.netlify.app](https://toms-avatar.netlify.app)
+
+Please feel free to visit the site!
