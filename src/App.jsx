@@ -10,7 +10,7 @@ function App() {
 						<BsStarFill className="star filled" />
 					</Toggle.On>
 					<Toggle.Off>
-						<BsStar className="star " />
+						<BsStar className="star" />
 					</Toggle.Off>
 				</Toggle.Button>
 			</Toggle>
