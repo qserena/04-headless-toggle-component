@@ -10,7 +10,7 @@ This is a headless component holding a state which can be of value On or Off. De
 - React
 
 ## Live link
-The site is deployed here:
+The component is deployed here:
 [https://toms-toggle.netlify.app](https://toms-toggle.netlify.app)
 
 Please feel free to visit the site!
